@@ -1,6 +1,7 @@
 import turtle
 import math
 t = turtle.Turtle()
+t.getscreen().bgcolor("royal blue")
 t.color("red", "orange")
 t.begin_fill()
 t.speed(400)
